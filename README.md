@@ -23,6 +23,8 @@ For the last task it was really intresting as I have not worked with commands be
 So inside Commands there is appendComments.php in the handle there is happening whats needed I am getting the user data from id and changing the comments 
 which I got from an array of comments inside the argument of the command which is {comments?*} and updated in the db 
 
+
+You can run php artisan serve and everything will be working!!
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
